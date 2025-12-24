@@ -1,0 +1,6 @@
+"area: frontend":
+  - "frontend/**"
+"page: promotion":
+  - "frontend/promotion.html"
+"level: 1":
+  - "tests/level_1/**"
