@@ -20,3 +20,6 @@ labels:
   - name: "category: 誤字"
     color: "fbca04"
     description: "表記ゆれ・誤字"
+  - name: "level_1/H"
+    color: "bfe5bf"
+    description: "Level 1 - H"
